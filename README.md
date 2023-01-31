@@ -1,1 +1,1 @@
-# Earthquake-detection-deploment-Terraform
+# Earthquake-detection-deployment-Terraform
